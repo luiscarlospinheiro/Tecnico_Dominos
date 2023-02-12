@@ -1,0 +1,134 @@
+@charset "UTF-8"
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+
+
+<style>
+		p{
+			text-align: justify;
+			font-family: 'Titillium Web', sans-serif;
+
+
+		}
+
+	
+
+
+		nav#menu{
+
+        display: block;
+        font-family: 'Titillium Web', sans-serif;
+
+
+		}
+
+		header#cabecalho h1{
+
+		font-family: 'Titillium Web', sans-serif;
+
+
+
+
+
+		}
+
+		}
+
+		header#cabecalho h2{
+
+		font-family: 'Titillium Web', sans-serif;
+
+		
+
+
+
+		}
+
+
+
+
+		 nav#menu ul{
+
+        list-style: none;
+        text-transform: uppercase;
+        position: absolute;
+        top: 300x;
+        left: 0px;
+
+    }
+
+		nav#menu li{
+
+			display: inline-block;
+background-color: royalblue;
+padding: 10px;
+margin: 2px;
+transition: background-color 1s;
+box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+
+
+   
+
+
+		}
+
+		nav#menu a{
+
+			color: white;
+			text-decoration: none;
+		}
+
+		nav#menu li:hover {
+
+			background-color: navy;
+
+
+		}
+
+		body{
+
+
+
+			font-family: 'Titillium Web', sans-serif;
+			background-image: url("wall.png");
+		}
+
+		header#cabecalho{
+
+		border-bottom:  1px solid grey;
+		}
+
+		footer#rodape{
+			
+			border-top: 1px solid grey;
+			
+
+
+
+
+		}
+
+		footer p{
+
+			text-align: center;
+			
+			
+		}
+
+		footer#rodape a{
+
+			
+			text-decoration: none;
+			font-family: 'Titillium Web', sans-serif;
+			transition: color 1s;
+			
+		}
+
+		footer#rodape a:hover {
+
+			color: red;
+
+
+		}
+
+		
